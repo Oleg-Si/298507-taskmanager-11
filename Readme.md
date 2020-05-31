@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Олег Сидорович](https://up.htmlacademy.ru/ecmascript/11/user/298507).
-* Наставник: `Неизвестно`.
+* Наставник: `Сами с усами :)`.
 
 ---
 
